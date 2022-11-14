@@ -1,0 +1,10 @@
+numpy 
+termcolor 
+pyaudio 
+wave 
+pydub 
+scipy 
+matplotlib 
+termcolor 
+numpy 
+pylint
